@@ -21,6 +21,10 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 
 - [LinkHub OKR](https://) — metodologia di William Zisa *(link da inserire)*
 
+## DataViz
+
+- [Color Contrast] (https://moonstory.design/palette-contrast-checker) 
+
 ## ✍️ I miei canali
 
 - [B🤓🤓merang](https://marcopanizzari.substack.com) — la mia newsletter settimanale
