@@ -13,15 +13,15 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 
 ## 📰 Newsletter & Blog di riferimento
 
-- [La Cultura del Dato](https://) — newsletter di Stefano Gatti *(link da inserire)*
-- [All About Data](https://) — newsletter di Alberto Danese *(link da inserire)*
+- [La Cultura del Dato](https://stefanogatti.substack.com) — newsletter di Stefano Gatti
+- [All About Data](https://allaboutdata.substack.com) — newsletter di Alberto Danese
 - [Intranet.ai](https://intranet.ai) — Giuseppe Marchi, SharePoint/OneDrive/Copilot
 
 ## 🎓 Formazione & Metodologia
 
-- [LinkHub OKR](https://) — metodologia di William Zisa *(link da inserire)*
+- - [LinkHub OKR](https://www.okrlinkhub.com) — metodologia di William Zisa
 
-## DataViz
+## 📈 DataViz
 
 - [Color Contrast](https://moonstory.design/palette-contrast-checker) 
 
