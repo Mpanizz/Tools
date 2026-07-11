@@ -23,7 +23,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 
 ## DataViz
 
-- [Color Contrast] (https://moonstory.design/palette-contrast-checker) 
+- [Color Contrast](https://moonstory.design/palette-contrast-checker) 
 
 ## ✍️ I miei canali
 
