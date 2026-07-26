@@ -10,6 +10,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Power BI User Group Italy](https://www.powerbiug.it) — community italiana Power BI
 - [Seeing Theory](https://seeing-theory.brown.edu) — statistica visuale interattiva
 - [Allison Horst](https://allisonhorst.com) — illustrazioni e didattica su data science
+- [Kubisko](https://www.linkedin.com/company/kubisco/posts/?feedView=all) - formazione
 
 ## 📰 Newsletter & Blog di riferimento
 
