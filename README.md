@@ -11,6 +11,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Seeing Theory](https://seeing-theory.brown.edu) — statistica visuale interattiva
 - [Allison Horst](https://allisonhorst.com) — illustrazioni e didattica su data science
 - [Kubisko](https://www.linkedin.com/company/kubisco/posts/?feedView=all) - formazione
+- [Corso Avanzato](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/tree/Main/.github) - autoformazione
 
 ## 📰 Newsletter & Blog di riferimento
 
