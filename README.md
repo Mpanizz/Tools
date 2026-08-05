@@ -27,6 +27,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 ## 📈 DataViz
 
 - [Viz for Biz](https://vizforbiz.substack.com) - Newsletter Paolo Guadagni
+- [InfoData](https://www.infodata.ilsole24ore.com/) - Il Sole 24 Ore, a cura di [Luca Tremolada](linkedin.com/in/lucatremolada)
 - [Color Contrast](https://moonstory.design/palette-contrast-checker) - per mettere in evidenza
 - [Theme modifier](https://themegenerator.point-gmbh.com/en-US/home) - per modificare template
 
