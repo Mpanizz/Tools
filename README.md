@@ -26,7 +26,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 
 ## 📈 DataViz
 
--[Viz for Biz](https://vizforbiz.substack.com] - Newsletter Paolo Guadagni
+- [Viz for Biz](https://vizforbiz.substack.com] - Newsletter Paolo Guadagni
 - [Color Contrast](https://moonstory.design/palette-contrast-checker) - per mettere in evidenza
 - [Theme modifier](https://themegenerator.point-gmbh.com/en-US/home) - per modificare template
 
