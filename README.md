@@ -14,6 +14,10 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Kubisko](https://www.linkedin.com/company/kubisco/posts/?feedView=all) - formazione
 - [Corso Avanzato](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/tree/Main/.github) - autoformazione
 
+## 🛠 Power Query & M
+
+- [Guida PQM](https://pqm.guide/) - Guida generale
+
 ## 📰 Newsletter & Blog di riferimento
 
 - [La Cultura del Dato](https://stefanogatti.substack.com) — newsletter di Stefano Gatti
