@@ -20,6 +20,9 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Power Query Explorer](https://lczanna.github.io/power-query-explorer/) - Per scaricare i metadati
 - [Guida PQM](https://pqm.guide/) - Guida generale
 
+## 🛠 Excel
+- [Marco Filocamo](https://www.marcofilocamo.it/) - Formazione e Blog
+
 ## 📰 Newsletter & Blog di riferimento
 
 - [La Cultura del Dato](https://stefanogatti.substack.com) — newsletter di Stefano Gatti
