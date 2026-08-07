@@ -13,9 +13,11 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Allison Horst](https://allisonhorst.com) — illustrazioni e didattica su data science
 - [Kubisko](https://www.linkedin.com/company/kubisco/posts/?feedView=all) - formazione
 - [Corso Avanzato](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/tree/Main/.github) - autoformazione
+- [Semantic Model Explorer](https://lczanna.github.io/semantic-model-explorer/) - Metadati da Modello
 
 ## 🛠 Power Query & M
 
+- [Power Query Explorer](https://lczanna.github.io/power-query-explorer/) - Per scaricare i metadati
 - [Guida PQM](https://pqm.guide/) - Guida generale
 
 ## 📰 Newsletter & Blog di riferimento
