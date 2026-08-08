@@ -7,6 +7,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 ## 📊 Power BI & Data
 
 - [SQLBI](https://www.sqlbi.com) — DAX, modellazione dati, articoli tecnici di riferimento
+- [DAX Guide](https://dax.guide/) - DAW, tutto quello che c'è da sapere
 - [DAXLIB](https://daxlib.org/) - Repository per UDF
 - [Power BI User Group Italy](https://www.powerbiug.it) — community italiana Power BI
 - [Seeing Theory](https://seeing-theory.brown.edu) — statistica visuale interattiva
