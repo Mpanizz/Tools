@@ -10,6 +10,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [DAX Guide](https://dax.guide/) - DAW, tutto quello che c'è da sapere
 - [DAXLIB](https://daxlib.org/) - Repository per UDF
 - [Power BI User Group Italy](https://www.powerbiug.it) — community italiana Power BI
+- [Power Tutorial](https://www.youtube.com/playlist?list=PLZUnkGPhqZ9M) - YouTube mio Canale
 - [Seeing Theory](https://seeing-theory.brown.edu) — statistica visuale interattiva
 - [Allison Horst](https://allisonhorst.com) — illustrazioni e didattica su data science
 - [Kubisko](https://www.linkedin.com/company/kubisco/posts/?feedView=all) - formazione
