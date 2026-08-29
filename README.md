@@ -8,6 +8,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 
 - [SQLBI](https://www.sqlbi.com) — DAX, modellazione dati, articoli tecnici di riferimento
 - [DAX Guide](https://dax.guide/) - DAW, tutto quello che c'è da sapere
+- [SQLBI Whiteboard](https://whiteboard.sqlbi.com/index.html) - By SQLBI
 - [DAXLIB](https://daxlib.org/) - Repository per UDF
 - [Power BI User Group Italy](https://www.powerbiug.it) — community italiana Power BI
 - [Power Tutorial](https://www.youtube.com/playlist?list=PLZUnkGPhqZ9M) - YouTube mio Canale
