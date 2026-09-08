@@ -18,6 +18,9 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Corso Avanzato](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/tree/Main/.github) - autoformazione
 - [Semantic Model Explorer](https://lczanna.github.io/semantic-model-explorer/) - Metadati da Modello
 
+## 🏋️‍♀️ AI
+ - [Markdown by Tabular Editor](https://tabulareditor.com/blog/markdown-and-ai-context-for-beginners) - Elementi di base
+
 ## 🛠 Power Query & M
 
 - [Power Query Explorer](https://lczanna.github.io/power-query-explorer/) - Per scaricare i metadati
