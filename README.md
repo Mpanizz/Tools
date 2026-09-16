@@ -17,6 +17,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Kubisko](https://www.linkedin.com/company/kubisco/posts/?feedView=all) - formazione
 - [Corso Avanzato](https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/tree/Main/.github) - autoformazione
 - [Semantic Model Explorer](https://lczanna.github.io/semantic-model-explorer/) - Metadati da Modello
+- [From Rookie to Rockstar](https://radacad.com/online-book-power-bi-from-rookie-to-rockstar/) - Reza
 
 ## 🏋️‍♀️ AI
  - [Markdown by Tabular Editor](https://tabulareditor.com/blog/markdown-and-ai-context-for-beginners) - Elementi di base
