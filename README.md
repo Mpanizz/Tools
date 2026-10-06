@@ -47,6 +47,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Color Contrast](https://moonstory.design/palette-contrast-checker) - per mettere in evidenza
 - [Theme modifier](https://themegenerator.point-gmbh.com/en-US/home) - per modificare template
 - [Lumina BI](https://pbi.amsol.ca/) - per creare json in modo immediato
+- [Regole Viz](https://anthonyhobday.com/sideprojects/saferules/?utm_source=substack&utm_medium=email) - Raccomandato da Gatti
 
 ## ✍️ I miei canali
 
