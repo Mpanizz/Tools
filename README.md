@@ -49,6 +49,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [Theme modifier](https://themegenerator.point-gmbh.com/en-US/home) - per modificare template
 - [Lumina BI](https://pbi.amsol.ca/) - per creare json in modo immediato
 - [Theme Generator](https://alyssatramnia.com/tools/power-bi-layout-generator/) temi, json, palette
+- [BI Creation](https://bicreation.fr/en/) - Temi e png
 - [Regole Viz](https://anthonyhobday.com/sideprojects/saferules/?utm_source=substack&utm_medium=email) - Raccomandato da Gatti
 
 ## ✍️ I miei canali
