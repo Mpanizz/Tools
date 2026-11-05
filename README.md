@@ -11,6 +11,7 @@ Raccolta di link a siti, risorse e strumenti rilevanti tra Business Intelligence
 - [DAX Style](https://docs.sqlbi.com/dax-style/) - Convenzioni Formattazioni e Naming SQLBI
 - [SQLBI Whiteboard](https://whiteboard.sqlbi.com/index.html) - By SQLBI
 - [DAXLIB](https://daxlib.org/) - Repository per UDF
+- [Contoso Data Generator](https://www.sqlbi.com/tools/contoso-data-generator/) - By SQLBI (serve estrattore come NANAZIP)
 - [Power BI User Group Italy](https://www.powerbiug.it) — community italiana Power BI
 - [Power Tutorial](https://www.youtube.com/playlist?list=PLZUnkGPhqZ9M) - YouTube mio Canale
 - [Seeing Theory](https://seeing-theory.brown.edu) — statistica visuale interattiva
